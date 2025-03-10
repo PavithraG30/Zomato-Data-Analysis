@@ -37,10 +37,22 @@ This project is a **Data Analysis on Zomato Restaurant Data** using Python. It i
 ```
 Zomato-Data-Analysis
 │
-├── Zomato-Data.csv          <-- Dataset file (149 rows)
-├── main.py                 <-- Python script for analysis
-├── README.md               <-- Project documentation
-├── Project Report.pdf      <-- In-depth project analysis
+├── Source Code
+│   ├── main.py                <-- Python script for analysis
+│
+├── Dataset
+│   ├── Zomato-Data-.csv       <-- Your data file (149 rows)
+│
+├── Documentation
+│   ├── Project Report.pdf     <-- In-depth project analysis
+│
+├── Visualizations
+│   ├── cost_distribution.png
+│   ├── restaurant_type_count.png
+│   ├── top_10_restaurants.png
+│
+├── README.md                  <-- Project documentation
+
 ```
 
 ## 📊 Insights from the Analysis
